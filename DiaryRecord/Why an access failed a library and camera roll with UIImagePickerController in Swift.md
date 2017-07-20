@@ -1,4 +1,6 @@
-# 🐥 Check the setting an access privacy data in Info.plist
+# Why an access failed a library and camera roll with UIImagePickerController in Swift
+
+## 🐥 Check the setting an access privacy data in Info.plist
 
 ![](https://github.com/baecheese/DiaryRecord/blob/master/Plan/note/Photo%20Library%20Usage%20Description/error.png?raw=true)
 
