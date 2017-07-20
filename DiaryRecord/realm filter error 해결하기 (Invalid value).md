@@ -1,4 +1,4 @@
-# realm filter error 해결하기 (Invalid value)
+# 🛠 realm filter error 해결하기 (Invalid value)
 
 메인 테이블에서 셀을 선택했을 때, 다음 페이지에서 해당 셀에 해당하는 총 정보를 가져오는 상황이었다.
 다음 페이지에 ID를 넘겨주는 것까지 완성한 상태인데,

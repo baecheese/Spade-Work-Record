@@ -1,4 +1,4 @@
-# An NSInternalInconsistencyException occurred when tableview have only one section and cell and try deleteRows
+# 🛠 An NSInternalInconsistencyException occurred when tableview have only one section and cell and try deleteRows
 
 TableView에서 데이터가 마지막 1개 일 때, deleteRows 하면 NSInternalInconsistencyException이 난다.
 

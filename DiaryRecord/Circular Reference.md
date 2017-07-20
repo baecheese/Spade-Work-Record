@@ -1,4 +1,4 @@
-# Circular Reference
+# 🛠 Circular Reference
 
 ### 🕷  문제 상황
 1. 특별하게 바꾼 것이 없던 것 같은데, 앱이 LaunchScreen에서 멈춘다.
