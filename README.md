@@ -17,4 +17,6 @@
 
 [자료가 1개 있을 때, 삭제 후, 저장하면 optional error](https://github.com/baecheese/Spade-Work-Record/blob/master/BonJeonChiGi/realm%20-%20unexpectedly%20found%20nil%20while%20unwrapping%20an%20Optional%20value.md)
 
+[앱ID, 프로비저닝 다 등록했는데 Archive Error](https://github.com/baecheese/Spade-Work-Record/blob/master/BonJeonChiGi/Archive%20Error.md)
+
 ## 🌈 etc
