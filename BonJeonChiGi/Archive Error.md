@@ -8,4 +8,4 @@
 ## 해결
 * iTunes Connect에서 나의 앱 등록을 마치니 되었다.
 
-[](https://github.com/baecheese/Spade-Work-Record/blob/master/BonJeonChiGi/Archive%20Error.png?raw=true)
+![](https://github.com/baecheese/Spade-Work-Record/blob/master/BonJeonChiGi/Archive%20Error.png?raw=true)
