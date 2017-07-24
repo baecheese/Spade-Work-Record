@@ -44,7 +44,7 @@ Results<Project> (
 
 )
 ```
-	* (false == realm.isEmpty)를 (false == realm.objects(검사하고싶은모델Object.self).isEmpty)로 바꿔야 한다
+#### (false == realm.isEmpty)를 (false == realm.objects(검사하고싶은모델Object.self).isEmpty)로 바꿔야 한다
 
 ##  해결
 

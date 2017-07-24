@@ -15,4 +15,6 @@
 
 [Xcode 업데이트 후, 주석처리 안됨](https://github.com/baecheese/Spade-Work-Record/blob/master/BonJeonChiGi/Can't%20comment%20selection.md)
 
+[자료가 1개 있을 때, 삭제 후, 저장하면 optional error](https://github.com/baecheese/Spade-Work-Record/blob/master/BonJeonChiGi/realm%20-%20unexpectedly%20found%20nil%20while%20unwrapping%20an%20Optional%20value.md)
+
 ## 🌈 etc
