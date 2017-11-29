@@ -1,3 +1,29 @@
+
+# 🌼 작업 노트
+* 공부하자
+
+[iOS 앱 등록 / 배포 하기](https://github.com/baecheese/Spade-Work-Record/wiki/iOS-App-Store%EC%97%90-%EB%93%B1%EB%A1%9D%ED%95%98%EA%B8%B0---iOS-App-%EB%B0%B0%ED%8F%AC-%ED%95%98%EA%B8%B0)
+
+[위젯 누르면 앱으로 가게 하기](https://github.com/baecheese/Spade-Work-Record/wiki/How-to-return-to-the-app-from-a-widget)
+
+##### 🌨 GCD
+
+[GCD란?, Concurrency, Serial/Concurrent Queue](https://github.com/baecheese/Spade-Work-Record/wiki/GCD---Concurrency,-Dispatch-queue,-Serial-Queue,-Concurrent-Queue)
+
+[queue의 종류와 QOS](https://github.com/baecheese/Spade-Work-Record/wiki/%5BGCD%5D-queue%EC%9D%98-%EC%A2%85%EB%A5%98%EC%99%80-QOS)
+
+[Synchronous, Asynchronous, asyncAfter를 이용한 delay](https://github.com/baecheese/Spade-Work-Record/wiki/%5BGCD%5D-Synchronous,-Asynchronous,-asyncAfter%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-delay)
+
+[싱글톤 관리](https://github.com/baecheese/Spade-Work-Record/wiki/%5BGCD%5D-Managing-Singletons)
+
+[Dispatch-Groups](https://github.com/baecheese/Spade-Work-Record/wiki/%5BGCD%5D-Dispatch-Groups)
+
+[[GCD] Cancelling Dispatch Blocks](https://github.com/baecheese/Spade-Work-Record/wiki/%5BGCD%5D-Cancelling-Dispatch-Blocks)
+
+[Testing, Semaphores, Expectations](https://github.com/baecheese/Spade-Work-Record/wiki/%5BGCD%5D-Testing,-Semaphores,-Expectations)
+
+[Dispatch Sources, DEBUG 예시](https://github.com/baecheese/Spade-Work-Record/wiki/%5BGCD%5D-Dispatch-Sources,-DEBUG-%EC%98%88%EC%8B%9C)
+
 # 🛠 삽질 노트
 * 실수를 줄이자
 
