@@ -2,11 +2,12 @@
 # 🌼 작업 노트
 * 공부하자
 
+#### 🌙 APP
 [iOS 앱 등록 / 배포 하기](https://github.com/baecheese/Spade-Work-Record/wiki/iOS-App-Store%EC%97%90-%EB%93%B1%EB%A1%9D%ED%95%98%EA%B8%B0---iOS-App-%EB%B0%B0%ED%8F%AC-%ED%95%98%EA%B8%B0)
 
 [위젯 누르면 앱으로 가게 하기](https://github.com/baecheese/Spade-Work-Record/wiki/How-to-return-to-the-app-from-a-widget)
 
-##### 🌨 GCD
+#### 🌨 GCD
 
 [GCD란?, Concurrency, Serial/Concurrent Queue](https://github.com/baecheese/Spade-Work-Record/wiki/GCD---Concurrency,-Dispatch-queue,-Serial-Queue,-Concurrent-Queue)
 
@@ -37,6 +38,8 @@
 
 [realm filter type error](https://github.com/baecheese/Spade-Work-Record/blob/master/DiaryRecord/realm%20filter%20error%20%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0%20(Invalid%20value).md)
 
+[Change UIButton image tint color](https://github.com/baecheese/Spade-Work-Record/blob/ba0cf167a5c622d952f72d53d65070246027f22a/DiaryRecord/Change%20UIButton%20image%20tint%20color.md)
+
 ## 🏌BonJeonChiGi
 
 [Xcode 업데이트 후, 주석처리 안됨](https://github.com/baecheese/Spade-Work-Record/blob/master/BonJeonChiGi/Can't%20comment%20selection.md)
@@ -46,3 +49,7 @@
 [앱ID, 프로비저닝 다 등록했는데 Archive Error](https://github.com/baecheese/Spade-Work-Record/blob/master/BonJeonChiGi/Archive%20Error.md)
 
 ## 🌈 etc
+
+[네비게이션바 알파 없이 컬러 설정하기](https://github.com/baecheese/Spade-Work-Record/blob/ba0cf167a5c622d952f72d53d65070246027f22a/BonJeonChiGi/set%20navigation%20bar%20color%20without%20alpha.md)
+
+[단어 개수 찾기](https://github.com/baecheese/Spade-Work-Record/blob/ba0cf167a5c622d952f72d53d65070246027f22a/etc/Count%20Word.md)
