@@ -19,7 +19,7 @@
 
 [Dispatch-Groups](https://github.com/baecheese/Spade-Work-Record/wiki/%5BGCD%5D-Dispatch-Groups)
 
-[[GCD] Cancelling Dispatch Blocks](https://github.com/baecheese/Spade-Work-Record/wiki/%5BGCD%5D-Cancelling-Dispatch-Blocks)
+[Cancelling Dispatch Blocks](https://github.com/baecheese/Spade-Work-Record/wiki/%5BGCD%5D-Cancelling-Dispatch-Blocks)
 
 [Testing, Semaphores, Expectations](https://github.com/baecheese/Spade-Work-Record/wiki/%5BGCD%5D-Testing,-Semaphores,-Expectations)
 
