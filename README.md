@@ -30,27 +30,27 @@
 
 ## 개발 중
 
-[Circular-reference](https://github.com/baecheese/Spade-Work-Record/blob/master/DiaryRecord/Circular%20Reference.md)
+[Circular-reference](https://github.com/baecheese/Spade-Work-Record/blob/master/ISSUES/Circular%20Reference.md)
 
-[라이브러리와 카메라롤 접근 에러 - UIImagePickerController](https://github.com/baecheese/Spade-Work-Record/blob/master/DiaryRecord/Access%20failed%20a%20library%20and%20camera%20roll%20with%20UIImagePickerController.md)
+[라이브러리와 카메라롤 접근 에러 - UIImagePickerController](https://github.com/baecheese/Spade-Work-Record/blob/master/ISSUES/Access%20failed%20a%20library%20and%20camera%20roll%20with%20UIImagePickerController.md)
 
-[마지막 데이터 deleteRows error](https://github.com/baecheese/Spade-Work-Record/blob/master/DiaryRecord/NSInternalInconsistencyException(tableview).md)
+[마지막 데이터 deleteRows error](https://github.com/baecheese/Spade-Work-Record/blob/master/ISSUES/NSInternalInconsistencyException(tableview).md)
 
-[realm filter type error](https://github.com/baecheese/Spade-Work-Record/blob/master/DiaryRecord/realm%20filter%20error%20%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0%20(Invalid%20value).md)
+[realm filter type error](https://github.com/baecheese/Spade-Work-Record/blob/master/ISSUES/realm%20filter%20error%20%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0%20(Invalid%20value).md)
 
-[Change UIButton image tint color](https://github.com/baecheese/Spade-Work-Record/blob/ba0cf167a5c622d952f72d53d65070246027f22a/DiaryRecord/Change%20UIButton%20image%20tint%20color.md)
+[Change UIButton image tint color](https://github.com/baecheese/Spade-Work-Record/blob/master/ISSUES/Change%20UIButton%20image%20tint%20color.md)
 
-[Xcode 업데이트 후, 주석처리 안됨](https://github.com/baecheese/Spade-Work-Record/blob/master/BonJeonChiGi/Can't%20comment%20selection.md)
+[Xcode 업데이트 후, 주석처리 안됨](https://github.com/baecheese/Spade-Work-Record/blob/master/ISSUES/Can't%20comment%20selection.md)
 
-[자료가 1개 있을 때, 삭제 후, 저장하면 optional error](https://github.com/baecheese/Spade-Work-Record/blob/master/BonJeonChiGi/realm%20-%20unexpectedly%20found%20nil%20while%20unwrapping%20an%20Optional%20value.md)
+[자료가 1개 있을 때, 삭제 후, 저장하면 optional error](https://github.com/baecheese/Spade-Work-Record/blob/master/ISSUES/realm%20-%20unexpectedly%20found%20nil%20while%20unwrapping%20an%20Optional%20value.md)
 
-[네비게이션바 알파 없이 컬러 설정하기](https://github.com/baecheese/Spade-Work-Record/blob/ba0cf167a5c622d952f72d53d65070246027f22a/BonJeonChiGi/set%20navigation%20bar%20color%20without%20alpha.md)
+[네비게이션바 알파 없이 컬러 설정하기](https://github.com/baecheese/Spade-Work-Record/blob/master/ISSUES/set%20navigation%20bar%20color%20without%20alpha.md)
 
 [단어 개수 찾기](https://github.com/baecheese/Spade-Work-Record/blob/ba0cf167a5c622d952f72d53d65070246027f22a/etc/Count%20Word.md)\
 
 ## 배포 중
 
 
-[앱ID, 프로비저닝 다 등록했는데 Archive Error](https://github.com/baecheese/Spade-Work-Record/blob/master/BonJeonChiGi/Archive%20Error.md)
+[앱ID, 프로비저닝 다 등록했는데 Archive Error](https://github.com/baecheese/Spade-Work-Record/blob/master/ISSUES/Archive%20Error.md)
 
 [개발 중에 잘 쓰던 Pod libiary를 Archive 하면 No such module -](https://github.com/baecheese/Spade-Work-Record/blob/master/ISSUES/Archive%20Error%202.md)
