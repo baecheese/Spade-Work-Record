@@ -28,7 +28,7 @@
 # 🛠 삽질 노트
 * 실수를 줄이자
 
-## 📕 DiaryRecord
+## 개발 중
 
 [Circular-reference](https://github.com/baecheese/Spade-Work-Record/blob/master/DiaryRecord/Circular%20Reference.md)
 
@@ -40,16 +40,17 @@
 
 [Change UIButton image tint color](https://github.com/baecheese/Spade-Work-Record/blob/ba0cf167a5c622d952f72d53d65070246027f22a/DiaryRecord/Change%20UIButton%20image%20tint%20color.md)
 
-## 🏌BonJeonChiGi
-
 [Xcode 업데이트 후, 주석처리 안됨](https://github.com/baecheese/Spade-Work-Record/blob/master/BonJeonChiGi/Can't%20comment%20selection.md)
 
 [자료가 1개 있을 때, 삭제 후, 저장하면 optional error](https://github.com/baecheese/Spade-Work-Record/blob/master/BonJeonChiGi/realm%20-%20unexpectedly%20found%20nil%20while%20unwrapping%20an%20Optional%20value.md)
 
-[앱ID, 프로비저닝 다 등록했는데 Archive Error](https://github.com/baecheese/Spade-Work-Record/blob/master/BonJeonChiGi/Archive%20Error.md)
-
-## 🌈 etc
-
 [네비게이션바 알파 없이 컬러 설정하기](https://github.com/baecheese/Spade-Work-Record/blob/ba0cf167a5c622d952f72d53d65070246027f22a/BonJeonChiGi/set%20navigation%20bar%20color%20without%20alpha.md)
 
-[단어 개수 찾기](https://github.com/baecheese/Spade-Work-Record/blob/ba0cf167a5c622d952f72d53d65070246027f22a/etc/Count%20Word.md)
+[단어 개수 찾기](https://github.com/baecheese/Spade-Work-Record/blob/ba0cf167a5c622d952f72d53d65070246027f22a/etc/Count%20Word.md)\
+
+## 배포 중
+
+
+[앱ID, 프로비저닝 다 등록했는데 Archive Error](https://github.com/baecheese/Spade-Work-Record/blob/master/BonJeonChiGi/Archive%20Error.md)
+
+[개발 중에 잘 쓰던 Pod libiary를 Archive 하면 No such module -](https://github.com/baecheese/Spade-Work-Record/blob/master/ISSUES/Archive%20Error%202.md)
