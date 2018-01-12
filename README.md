@@ -9,7 +9,7 @@
 
 #### 🌨 GCD
 
-[GCD란?, Concurrency, Serial/Concurrent Queue](https://github.com/baecheese/Spade-Work-Record/wiki/GCD---Concurrency,-Dispatch-queue,-Serial-Queue,-Concurrent-Queue)
+[GCD란?, Concurrency, Serial/Concurrent Queue](https://github.com/baecheese/Spade-Work-Record/wiki/%5BGCD%5D-Concurrency,-Dispatch-queue,-Serial-Queue,-Concurrent-Queue)
 
 [queue의 종류와 QOS](https://github.com/baecheese/Spade-Work-Record/wiki/%5BGCD%5D-queue%EC%9D%98-%EC%A2%85%EB%A5%98%EC%99%80-QOS)
 
