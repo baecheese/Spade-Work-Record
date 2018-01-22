@@ -28,6 +28,11 @@
 # 🛠 삽질 노트
 * 실수를 줄이자
 
+## network
+[백엔드와의 모든 통신을 HTTPS로 전환하는 것이 애플 권장 사항](https://github.com/baecheese/Spade-Work-Record/blob/4139522b7b9c2326b799d5e5940569011bfe37f2/ISSUES/HTTP:HTTPS%20Network%20-%20App%20transport%20security.md)
+
+[NSAllowsArbitraryLoadsForMedia, NSAllowsArbitraryLoadsInWebContent 또는 NSAllowsLocalNetworking가 있으면 NSAllowsArbitraryLoads 키 값이 NO로 대체](https://github.com/baecheese/Spade-Work-Record/blob/4139522b7b9c2326b799d5e5940569011bfe37f2/ISSUES/When%20NSAllowsArbitraryLoadsInWebContent%20is%20YES%2C%20overrides%20the%20value%20of%20the%20NSAllowsArbitraryLoads%20key%20to%20NO.md)
+
 ## 개발 중
 
 [Circular-reference](https://github.com/baecheese/Spade-Work-Record/blob/master/ISSUES/Circular%20Reference.md)
@@ -50,7 +55,10 @@
 
 ## 배포 중
 
-
 [앱ID, 프로비저닝 다 등록했는데 Archive Error](https://github.com/baecheese/Spade-Work-Record/blob/master/ISSUES/Archive%20Error.md)
 
 [개발 중에 잘 쓰던 Pod libiary를 Archive 하면 No such module -](https://github.com/baecheese/Spade-Work-Record/blob/master/ISSUES/Archive%20Error%202.md)
+
+## 광고 (AdMob)
+
+[App ID와 Banner ID를 모두 등록했는데 광고가 뜨지 않을 땐, admit 마이 페이지에서 지급 메뉴에 설정하고 좀 기다리기](https://github.com/baecheese/Spade-Work-Record/blob/4139522b7b9c2326b799d5e5940569011bfe37f2/ISSUES/AdMob%20banner%20Request%20Error%20-%20No%20ad%20to%20show.md)
