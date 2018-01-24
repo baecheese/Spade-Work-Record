@@ -15,7 +15,9 @@ An annual Self Classification Report is a requirement for exports of certain enc
 
 ## 기타
 #### What are some examples of compliance requirements based on encryption use in an app?
+##### 원문
 ![](https://github.com/baecheese/Spade-Work-Record/blob/master/resource/examples%20of%20compliance%20requirements%20based%20on%20encryption%20use%20in%20an%20app_en.png?raw=true)
+##### 번역문 (원문 참고)
 ![](https://github.com/baecheese/Spade-Work-Record/blob/master/resource/examples%20of%20compliance%20requirements%20based%20on%20encryption%20use%20in%20an%20app.png?raw=true)
 
 #### 그 외의 자세한 수출 규정 관련 문서
