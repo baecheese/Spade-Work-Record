@@ -59,6 +59,8 @@
 
 [개발 중에 잘 쓰던 Pod libiary를 Archive 하면 No such module -](https://github.com/baecheese/Spade-Work-Record/blob/master/ISSUES/Archive%20Error%202.md)
 
+[수출 규정 관련 연말 자가 분류 보고서](https://github.com/baecheese/Spade-Work-Record/blob/master/ISSUES/What%20is%20the%20year-end%20Self%20Classification%20Report.md)
+
 ## 광고 (AdMob)
 
 [App ID와 Banner ID를 모두 등록했는데 광고가 뜨지 않을 땐, admit 마이 페이지에서 지급 메뉴에 설정하고 좀 기다리기](https://github.com/baecheese/Spade-Work-Record/blob/4139522b7b9c2326b799d5e5940569011bfe37f2/ISSUES/AdMob%20banner%20Request%20Error%20-%20No%20ad%20to%20show.md)
