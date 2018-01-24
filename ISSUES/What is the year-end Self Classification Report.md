@@ -10,7 +10,7 @@ An annual Self Classification Report is a requirement for exports of certain enc
 * 앱이 Apple의 iOS 또는 macOS에서 제공되는 표준 암호화 알고리즘을 사용하거나 단순히 HTTPS를 통해 Call을 하면 매년 1월에 자체 정보를 2 개의 미국 정부 기관에 제출해야 할 수 있다. 자세한 내용은 다음 암호화보고 지침을 참고 하라.
 
 #### encryption reporting guidance policy (암호화보고 지침)
-![]()
+![](https://github.com/baecheese/Spade-Work-Record/blob/master/resource/encryption%20reporting%20guidance%20policy.png?raw=true)
 * 위의 파란색 부분에 해당하는 경우 안내도 되는 걸로.. (번역은 잘 한건지 모르겠..)
 
 ## 기타
