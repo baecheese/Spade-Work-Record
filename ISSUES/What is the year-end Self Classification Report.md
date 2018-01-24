@@ -14,6 +14,11 @@ An annual Self Classification Report is a requirement for exports of certain enc
 * 위의 파란색 부분에 해당하는 경우 안내도 되는 걸로.. (번역은 잘 한건지 모르겠..)
 
 ## 기타
+#### What are some examples of compliance requirements based on encryption use in an app?
+![](https://github.com/baecheese/Spade-Work-Record/blob/master/resource/examples%20of%20compliance%20requirements%20based%20on%20encryption%20use%20in%20an%20app_en.png?raw=true)
+![](https://github.com/baecheese/Spade-Work-Record/blob/master/resource/examples%20of%20compliance%20requirements%20based%20on%20encryption%20use%20in%20an%20app.png?raw=true)
+
+#### 그 외의 자세한 수출 규정 관련 문서
 * 애플에 전화해본 결과 수출 규정과 관련된 설명이 적힌 페이지를 안내 받을 수 있었다. 
 	* iTunes Connect - 참고 자료 및 도움말 - FAQ - Managing Your App - Export Compliance
 	* 이 페이지에 가면 관련된 여러 사항을 자세히 읽을 수 있다
